@@ -1,5 +1,5 @@
 # Monte-Carlo-Stock-Simulation
-This is a program that takes in historical prices for a stock ticker (in my example TSLA) and uses this data along with statistics and probability theory to predict the price of the ticker after a configurable number of days.
+This is a program that takes in historical prices for a stock ticker (in my example TSLA) and uses this data along with statistics and probability theory to predict the price of the ticker after a configurable number of days. This project was written on Spyder and used the following libraries: numpy, pandas, pandas_datareader, matplotlib, scipy, datetime, and time.
 
 # Motivation
 I made this project for a math essay I wrote in grade 12 as a requirement for completing the IB Diploma Programme. The essay itself is also included in this repository to provide more explanation on the math included in the formulas, as well as the sources I used to gather my research.
