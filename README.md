@@ -21,19 +21,19 @@ Finally, after the code has finished executing, it will produce 4 figures and so
 
 The stock chart from the "start" date till the "end" date.
 
-![Stock Chart](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/StockChart.PNG)
+![Stock Chart](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/StockChart.png)
 
 The log returns for each day from the "start" date till the "end" date.
 
-![Log Returns](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/LogReturns.PNG)
+![Log Returns](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/LogReturns.png)
 
 The movement of the stock's price over the configurable number of days into the future for each simulation.
 
-![Simulation](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/Simulation.PNG)
+![Simulation](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/Simulation.png)
 
 A frequency chart which takes the last day of each simulation and displays how often each price occured, the blue line represents the price of the stock on the ending date.
 
-![Frequency Chart](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/FrequencyChart.PNG)
+![Frequency Chart](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/FrequencyChart.png)
 
 **Note: The simulation result and frequency chart posted here are different than those from the essay due to the random aspect of the simulation making it practically impossible to reproduce the same results.
 
