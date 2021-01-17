@@ -13,7 +13,7 @@ In this example, I've used the ticker symbol TSLA, and I gathered the closing pr
 
 This is where the duration of the simulation, and the number of simulations is set.
 
-![Simulation Settings]((https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/SimulationSettings.PNG)
+![Simulation Settings](https://github.com/DavidLoi/Monte-Carlo-Stock-Simulation/blob/main/Screenshots/SimulationSettings.PNG)
 
 I predicted prices 23 days into the future for a total of 10000 simulations.
 
